@@ -12,6 +12,8 @@ fi
 
 cp -r Jsp/ ./temporary
 
+cp index.jsp ./temporary
+
 cp web.xml temporary/WEB-INF
 
 mkdir temporary/WEB-INF/lib
