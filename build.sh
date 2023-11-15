@@ -22,6 +22,6 @@ cp -r $lib temporary/WEB-INF/
 
 cd temporary then
 
-jar -cf ../Project.war .
+jar -cf ../ClusterJavaApplication.war .
 cd ..
 rm -r temporary
